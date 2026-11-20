@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-20T14:06:46.630Z",
+  "atualizadoEm": "2026-11-20T14:47:36.419Z",
   "empresa": {
     "nome": "Manu modas",
     "cnpj": "155-666-888-20",
@@ -9,8 +9,8 @@
     "site": "manu.com.br",
     "descricao": ""
   },
-  "totalProdutos": 1,
-  "totalImagens": 1,
+  "totalProdutos": 5,
+  "totalImagens": 5,
   "produtos": [
     {
       "id": "P-0001",
@@ -21,9 +21,53 @@
       "imagens": [
         "IMG-0001"
       ]
+    },
+    {
+      "id": "P-0002",
+      "nome": "Vestido Vermelho",
+      "preco": 200,
+      "categoria": "Vestido",
+      "descricao": "Vestido de ceda vermelho",
+      "imagens": [
+        "IMG-0002"
+      ]
+    },
+    {
+      "id": "P-0003",
+      "nome": "Vestido Marrom",
+      "preco": 200,
+      "categoria": "Vestido",
+      "descricao": "Vestido de ceda marrom",
+      "imagens": [
+        "IMG-0003"
+      ]
+    },
+    {
+      "id": "P-0004",
+      "nome": "Vestido Preto",
+      "preco": 200,
+      "categoria": "Vestido",
+      "descricao": "Vestido de ceda preto",
+      "imagens": [
+        "IMG-0004"
+      ]
+    },
+    {
+      "id": "P-0005",
+      "nome": "Vestido Azul",
+      "preco": 200,
+      "categoria": "Vestido",
+      "descricao": "Vestido de ceda Azul",
+      "imagens": [
+        "IMG-0005"
+      ]
     }
   ],
   "indiceImagens": {
-    "IMG-0001": "Arq-Img1.TXT"
+    "IMG-0001": "Arq-Img1.TXT",
+    "IMG-0002": "Arq-Img1.TXT",
+    "IMG-0003": "Arq-Img1.TXT",
+    "IMG-0004": "Arq-Img1.TXT",
+    "IMG-0005": "Arq-Img1.TXT"
   }
 }
