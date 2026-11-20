@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-20T14:54:51.353Z",
+  "atualizadoEm": "2026-11-20T16:02:17.086Z",
   "empresa": {
     "nome": "Manu modas",
     "cnpj": "155-666-888-20",
@@ -9,8 +9,8 @@
     "site": "manu.com.br",
     "descricao": ""
   },
-  "totalProdutos": 6,
-  "totalImagens": 5,
+  "totalProdutos": 7,
+  "totalImagens": 10,
   "produtos": [
     {
       "id": "P-0001",
@@ -75,6 +75,20 @@
         "IMG-0002",
         "IMG-0005"
       ]
+    },
+    {
+      "id": "P-0007",
+      "nome": "Teste 2",
+      "preco": 200,
+      "categoria": "Teste",
+      "descricao": "Teste",
+      "imagens": [
+        "IMG-0006",
+        "IMG-0007",
+        "IMG-0008",
+        "IMG-0009",
+        "IMG-0010"
+      ]
     }
   ],
   "indiceImagens": {
@@ -82,6 +96,11 @@
     "IMG-0002": "Arq-Img1.TXT",
     "IMG-0003": "Arq-Img1.TXT",
     "IMG-0004": "Arq-Img1.TXT",
-    "IMG-0005": "Arq-Img1.TXT"
+    "IMG-0005": "Arq-Img1.TXT",
+    "IMG-0006": "Arq-Img1.TXT",
+    "IMG-0007": "Arq-Img1.TXT",
+    "IMG-0008": "Arq-Img1.TXT",
+    "IMG-0009": "Arq-Img1.TXT",
+    "IMG-0010": "Arq-Img1.TXT"
   }
 }
