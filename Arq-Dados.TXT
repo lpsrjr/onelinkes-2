@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-20T16:07:14.826Z",
+  "atualizadoEm": "2026-11-20T16:10:19.543Z",
   "empresa": {
     "nome": "Manu modas",
     "cnpj": "155-666-888-20",
