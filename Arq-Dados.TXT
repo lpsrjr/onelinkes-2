@@ -1,0 +1,29 @@
+{
+  "versao": 1,
+  "atualizadoEm": "2026-11-20T14:06:46.630Z",
+  "empresa": {
+    "nome": "Manu modas",
+    "cnpj": "155-666-888-20",
+    "cidade": "maneus",
+    "telefone": "48984620104",
+    "site": "manu.com.br",
+    "descricao": ""
+  },
+  "totalProdutos": 1,
+  "totalImagens": 1,
+  "produtos": [
+    {
+      "id": "P-0001",
+      "nome": "Vestido Verde",
+      "preco": 200,
+      "categoria": "Vestidos",
+      "descricao": "Vestido de ceda Verde",
+      "imagens": [
+        "IMG-0001"
+      ]
+    }
+  ],
+  "indiceImagens": {
+    "IMG-0001": "Arq-Img1.TXT"
+  }
+}
