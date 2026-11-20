@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizadoEm": "2026-11-20T19:24:54.476Z",
+  "atualizadoEm": "2026-11-20T19:35:31.490Z",
   "empresa": {
     "nome": "Manu modas",
     "cnpj": "155-666-888-20",
@@ -9,7 +9,7 @@
     "site": "manu.com.br",
     "descricao": ""
   },
-  "totalProdutos": 2,
+  "totalProdutos": 4,
   "totalImagens": 6,
   "produtos": [
     {
@@ -87,6 +87,67 @@
           ]
         }
       ]
+    },
+    {
+      "id": "P-0003",
+      "nome": "Teste 2",
+      "preco": 100,
+      "categoria": "Teste 2",
+      "descricao": "Teste 2",
+      "imagens": [
+        "IMG-0001",
+        "IMG-0002",
+        "IMG-0003",
+        "IMG-0004"
+      ],
+      "cores": [
+        {
+          "id": "C-0001",
+          "nome": "Marrom",
+          "hex": "#58373a",
+          "imagens": [
+            "IMG-0001"
+          ]
+        },
+        {
+          "id": "C-0002",
+          "nome": "Verde-oliva",
+          "hex": "#5a6756",
+          "imagens": [
+            "IMG-0002"
+          ]
+        },
+        {
+          "id": "C-0003",
+          "nome": "Preto",
+          "hex": "#161a28",
+          "imagens": [
+            "IMG-0003"
+          ]
+        },
+        {
+          "id": "C-0004",
+          "nome": "Vinho",
+          "hex": "#681536",
+          "imagens": [
+            "IMG-0004"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P-0004",
+      "nome": "Teste 3",
+      "preco": 250.8,
+      "categoria": "Teste 3",
+      "descricao": "teste 3",
+      "imagens": [
+        "IMG-0001",
+        "IMG-0002",
+        "IMG-0003",
+        "IMG-0004"
+      ],
+      "cores": []
     }
   ],
   "indiceImagens": {
