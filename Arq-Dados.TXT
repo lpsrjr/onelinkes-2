@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-11-20T14:47:36.419Z",
+  "atualizadoEm": "2026-11-20T14:53:01.180Z",
   "empresa": {
     "nome": "Manu modas",
     "cnpj": "155-666-888-20",
@@ -9,7 +9,7 @@
     "site": "manu.com.br",
     "descricao": ""
   },
-  "totalProdutos": 5,
+  "totalProdutos": 6,
   "totalImagens": 5,
   "produtos": [
     {
@@ -59,6 +59,20 @@
       "categoria": "Vestido",
       "descricao": "Vestido de ceda Azul",
       "imagens": [
+        "IMG-0005"
+      ]
+    },
+    {
+      "id": "P-0006",
+      "nome": "Teste",
+      "preco": 200,
+      "categoria": "Teste",
+      "descricao": "Teste",
+      "imagens": [
+        "IMG-0003",
+        "IMG-0001",
+        "IMG-0004",
+        "IMG-0002",
         "IMG-0005"
       ]
     }
