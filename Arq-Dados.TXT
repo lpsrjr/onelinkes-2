@@ -1,6 +1,6 @@
 {
-  "versao": 1,
-  "atualizadoEm": "2026-11-20T16:10:19.543Z",
+  "versao": 2,
+  "atualizadoEm": "2026-11-20T18:43:34.458Z",
   "empresa": {
     "nome": "Manu modas",
     "cnpj": "155-666-888-20",
@@ -9,99 +9,63 @@
     "site": "manu.com.br",
     "descricao": ""
   },
-  "totalProdutos": 8,
-  "totalImagens": 15,
+  "totalProdutos": 1,
+  "totalImagens": 5,
   "produtos": [
     {
       "id": "P-0001",
-      "nome": "Vestido Verde",
-      "preco": 200,
-      "categoria": "Vestidos",
-      "descricao": "Vestido de ceda Verde",
-      "imagens": [
-        "IMG-0001"
-      ]
-    },
-    {
-      "id": "P-0002",
-      "nome": "Vestido Vermelho",
+      "nome": "Vestido Artas",
       "preco": 200,
       "categoria": "Vestido",
-      "descricao": "Vestido de ceda vermelho",
+      "descricao": "Vestido de ceda...",
       "imagens": [
-        "IMG-0002"
-      ]
-    },
-    {
-      "id": "P-0003",
-      "nome": "Vestido Marrom",
-      "preco": 200,
-      "categoria": "Vestido",
-      "descricao": "Vestido de ceda marrom",
-      "imagens": [
-        "IMG-0003"
-      ]
-    },
-    {
-      "id": "P-0004",
-      "nome": "Vestido Preto",
-      "preco": 200,
-      "categoria": "Vestido",
-      "descricao": "Vestido de ceda preto",
-      "imagens": [
-        "IMG-0004"
-      ]
-    },
-    {
-      "id": "P-0005",
-      "nome": "Vestido Azul",
-      "preco": 200,
-      "categoria": "Vestido",
-      "descricao": "Vestido de ceda Azul",
-      "imagens": [
-        "IMG-0005"
-      ]
-    },
-    {
-      "id": "P-0006",
-      "nome": "Teste",
-      "preco": 200,
-      "categoria": "Teste",
-      "descricao": "Teste",
-      "imagens": [
-        "IMG-0003",
         "IMG-0001",
-        "IMG-0004",
         "IMG-0002",
+        "IMG-0003",
+        "IMG-0004",
         "IMG-0005"
-      ]
-    },
-    {
-      "id": "P-0007",
-      "nome": "Teste 2",
-      "preco": 200,
-      "categoria": "Teste",
-      "descricao": "Teste",
-      "imagens": [
-        "IMG-0006",
-        "IMG-0007",
-        "IMG-0008",
-        "IMG-0009",
-        "IMG-0010"
-      ]
-    },
-    {
-      "id": "P-0008",
-      "nome": "Teste 3",
-      "preco": 200,
-      "categoria": "Teste",
-      "descricao": "Teste",
-      "imagens": [
-        "IMG-0011",
-        "IMG-0012",
-        "IMG-0013",
-        "IMG-0014",
-        "IMG-0015"
+      ],
+      "cores": [
+        {
+          "id": "C-0001",
+          "nome": "Marrom",
+          "hex": "#58373a",
+          "imagens": [
+            "IMG-0001"
+          ]
+        },
+        {
+          "id": "C-0002",
+          "nome": "Verde-oliva",
+          "hex": "#5a6756",
+          "imagens": [
+            "IMG-0002"
+          ]
+        },
+        {
+          "id": "C-0003",
+          "nome": "Preto",
+          "hex": "#161a28",
+          "imagens": [
+            "IMG-0003"
+          ]
+        },
+        {
+          "id": "C-0004",
+          "nome": "Vinho",
+          "hex": "#681536",
+          "imagens": [
+            "IMG-0004"
+          ]
+        },
+        {
+          "id": "C-0005",
+          "nome": "Azul",
+          "hex": "#262e6e",
+          "imagens": [
+            "IMG-0005"
+          ]
+        }
       ]
     }
   ],
@@ -110,16 +74,6 @@
     "IMG-0002": "Arq-Img1.TXT",
     "IMG-0003": "Arq-Img1.TXT",
     "IMG-0004": "Arq-Img1.TXT",
-    "IMG-0005": "Arq-Img1.TXT",
-    "IMG-0006": "Arq-Img1.TXT",
-    "IMG-0007": "Arq-Img1.TXT",
-    "IMG-0008": "Arq-Img1.TXT",
-    "IMG-0009": "Arq-Img1.TXT",
-    "IMG-0010": "Arq-Img1.TXT",
-    "IMG-0011": "Arq-Img1.TXT",
-    "IMG-0012": "Arq-Img1.TXT",
-    "IMG-0013": "Arq-Img1.TXT",
-    "IMG-0014": "Arq-Img1.TXT",
-    "IMG-0015": "Arq-Img1.TXT"
+    "IMG-0005": "Arq-Img1.TXT"
   }
 }
