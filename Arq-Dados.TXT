@@ -1,11 +1,11 @@
 {
   "versao": 5,
-  "atualizadoEm": "2026-11-22T22:59:36.765Z",
+  "atualizadoEm": "2026-11-22T23:10:42.495Z",
   "empresa": {
     "nome": "Loja de Teste",
     "cnpj": "",
     "cidade": "Florianópolis",
-    "telefone": "(48) 99999-0000",
+    "telefone": "(48) 984620104",
     "site": "",
     "descricao": "Dados falsos gerados por gerar_produtos_teste.py, só para testes."
   },
